@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.23.0",
-    "sweetalert2": "^6.4.2",
+    "sweetalert2": "^6.6.4",
     "vue": "^2.2.1"
   },
   "devDependencies": {
